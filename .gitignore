@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .idea
 venv
 =======
+=======
+>>>>>>> 0f4fc2718b8cb9ea68df67795bd01bd482bb2169
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -131,4 +134,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
+>>>>>>> 0f4fc2718b8cb9ea68df67795bd01bd482bb2169
+=======
 >>>>>>> 0f4fc2718b8cb9ea68df67795bd01bd482bb2169
