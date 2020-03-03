@@ -1,3 +1,4 @@
+
 class Calculator:
     result = 0
 
@@ -5,4 +6,3 @@ class Calculator:
         x = 2 + 2
         self.result = x;
         pass
-
